@@ -31,3 +31,10 @@
  1. Open the project in Android Studio (Iguana or newer recommended).
  2. Sync Gradle and run the `app` module on an emulator or physical device.
  3. Use the Dial Pad to enter a number and press the Green call button, or click "Simulate Incoming" to test the receiving flow.
+
+## 📲 Installation (APK)
+For evaluation purposes, you can download the latest release APK from the link below:
+👉 **[Download BasicCallingApp APK](https://drive.google.com/file/d/1d7ixb2NKx5vCUKrr9D3_inxqHxsJAUlM/view?usp=sharing)**
+
+---
+*Note: As this is a release build, you may need to enable "Install from Unknown Sources" on your device.*
